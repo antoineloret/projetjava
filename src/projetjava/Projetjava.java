@@ -7,7 +7,7 @@ package projetjava;
 
 /**
  *
- * @author Antoine
+ * @author Antoine et Alice et Margaux et Thomas
  */
 public class Projetjava {
 
